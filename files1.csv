@@ -1,0 +1,21 @@
+"Complex machine learning tools such as deep learning are gaining increasing popularity and are being applied to a wide variety of problems. These tools, however, require large amounts of labeled data [HDY+ 12, RYZ+ 10, DDS+ 09, CBW+ 10]. These large labeling tasks are being performed by coordinating crowds of semi-skilled workers through the Internet. This is known as crowdsourcing. Crowdsourcing as a means of collecting labeled training data has now become indispensable to the engineering of intelligent systems."
+"The loss avoids the Long and Servedio [2010] result by virtue of being negatively unbounded. The loss is a modification of the hinge loss, where one does not clamp at zero; hence, we call it the unhinged loss. We show that the optimal unhinged solution is equivalent to that of a strongly regularised SVM, and is the limiting solution for any convex potential; this implies that strong `2 regularisation makes most standard learners SLN-robust. Experiments confirm the unhinged loss’ SLN-robustness is borne out in practice. So, with apologies to Wilde [1895], while the truth is rarely pure, it can be simple."
+"Dirichlet process mixture models (DPMM) have been widely used for clustering data Neal (1992);
+Rasmussen (2000). Traditional finite mixture models often suffer from overfitting or underfitting
+of data due to possible mismatch between the model complexity and amount of data. Thus, model
+selection or model averaging is required to find the correct number of clusters or the model with
+the appropriate complexity. This requires significant computation for high-dimensional data sets or
+large samples. Bayesian nonparametric modeling are alternative approaches to parametric modeling,
+an example being DPMM’s which can automatically infer the number of clusters from the data via
+Bayesian inference techniques.
+The use of Markov chain Monte Carlo (MCMC) methods for Dirichlet process mixtures has made
+inference tractable Neal (2000). "
+"In machine learning applications, direct sampling with the entire large-scale dataset is computationally infeasible. For instance, standard Markov chain Monte Carlo (MCMC) methods [16], as well as typical hybrid Monte Carlo (HMC) methods [3, 6, 9], require the calculation of the acceptance probability and the creation of informed proposals based on the whole dataset. In order to improve the computational efficiency, a number of stochastic gradient methods [4, 5, 20, 21] have been proposed in the setting of Bayesian sampling based on random (and much smaller) subsets to approximate the likelihood of the whole dataset, thus substantially reducing the computational cost in practice. Welling and Teh proposed the so-called stochastic gradient Langevin"
+"We formulate hierarchical image segmentation from the perspective of estimating an ultrametric
+distance over the set of image pixels that agrees closely with an input set of noisy pairwise distances.
+An ultrametric space replaces the usual triangle inequality with the ultrametric inequality d(u, v) ≤
+max{d(u, w), d(v, w)} which captures the transitive property of clustering (if u and w are in the
+same cluster and v and w are in the same cluster, then u and v must also be in the same cluster).
+Thresholding an ultrametric immediately yields a partition into sets whose diameter is less than
+the given threshold. Varying this distance threshold naturally produces a hierarchical clustering in
+which clusters at high thresholds are composed of clusters at lower thresholds."
